@@ -4,7 +4,7 @@ Portafolio: https://andresvergara.me/
 
 ## Current Projects
 
--  **[skip_required_fields]([https://github.com/openclaw/openclaw](https://github.com/Altair343/skip_required_fields))** - Skip required fields odoo
+-  **[skip_required_fields](https://github.com/Altair343/skip_required_fields)** - Skip required fields odoo
 
   
 <!--
