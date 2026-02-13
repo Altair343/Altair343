@@ -1,6 +1,12 @@
 ### Hi there 👋
 
 Portafolio: https://andresvergara.me/
+
+## Current Projects
+
+-  **[skip_required_fields]([https://github.com/openclaw/openclaw](https://github.com/Altair343/skip_required_fields))** - Skip required fields odoo
+
+  
 <!--
 **Altair343/Altair343** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
