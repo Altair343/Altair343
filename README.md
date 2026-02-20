@@ -5,7 +5,7 @@ Portafolio: https://andresvergara.me/
 ## Current Projects
 
 -  **[skip_required_fields](https://github.com/Altair343/skip_required_fields)** - Skip required fields odoo
--  **[binary_file_reset](https://github.com/Altair343/binary_file_reset)** - Binary file reset
+-  **[binary_file_reset](https://github.com/Altair343/binary_file_reset)** - Binary file reset odoo
 
   
 <!--
